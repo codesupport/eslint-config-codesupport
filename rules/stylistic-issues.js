@@ -27,7 +27,6 @@ module.exports = {
 		"lines-between-class-members": ["error", "always"],
 		"multiline-ternary": ["error", "never"],
 		"new-cap": "error",
-		"no-bitwise": "error",
 		"no-continue": "error",
 		"no-mixed-spaces-and-tabs": "error",
 		"no-multi-assign": "error",
