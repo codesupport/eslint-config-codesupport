@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-codesupport",
+  "version": "1.0.0",
+  "description": "The official ESLint Config for CodeSupport's JavaScript projects.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesupport/eslint-config-codesupport.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "CodeSupport Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesupport/eslint-config-codesupport/issues"
+  },
+  "homepage": "https://github.com/codesupport/eslint-config-codesupport#readme"
+}
