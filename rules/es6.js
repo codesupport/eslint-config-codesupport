@@ -1,7 +1,7 @@
 module.exports = {
 	rules: {
-		"arrow-body-style": ["error", "always"],
-		"arrow-parens": ["error", "always"],
+		"arrow-body-style": ["error", "as-needed"],
+		"arrow-parens": ["error", "as-needed"],
 		"arrow-spacing": ["error", {
 			"before": true,
 			"after": true
