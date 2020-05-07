@@ -2,6 +2,10 @@
 
 ## Table of Contents
 - [Variables](#variables)
+  - [Disallow Deleting Variables](#disallow-deleting-variables)
+  - [Disallow Unused Variables](#disallow-unused-variables)
+  - [Disallow Early Use](#disallow-early-use)
+  - [Enforce `require()` On The Top Level Module Scope](#enforce-require-on-the-top-level-module-scope)
 
 ## Style Guide
 
