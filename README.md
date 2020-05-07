@@ -7,7 +7,23 @@
   - [Disallow Early Use](#disallow-early-use)
   - [Enforce `require()` On The Top Level Module Scope](#enforce-require-on-the-top-level-module-scope)
 - [Possible Errors](#possible-errors)
-
+  - [Disallow Duplicate Arguments In Function Definitions](#disallow-duplicate-arguments-in-function-definitions)
+  - [Disallow Duplicate Keys In Object Literals](#disallow-duplicate-keys-in-object-literals)
+  - [Rule To Disallow A Duplicate Case Label](#rule-to-disallow-a-duplicate-case-label)
+  - [Disallow Empty Block Statements](#disallow-empty-block-statements)
+  - [Disallow Reassigning Exceptions In Catch Clauses](#disallow-reassigning-exceptions-in-catch-clauses)
+  - [Disallow Unnecessary Parentheses](#disallow-unnecessary-parentheses)
+  - [Disallow Unnecessary Semicolons](#disallow-unnecessary-semicolons)
+  - [Disallow Reassigning `function` Declarations](#disallow-reassigning-function-declarations)
+  - [Disallow Variable or `function` Declarations In Nested Blocks](#disallow-variable-or-function-declarations-in-nested-blocks)
+  - [Disallow Invalid Regular Expression Strings In RegExp Constructors](#disallow-invalid-regular-expression-strings-in-regexp-constructors)
+  - [Disallow Calling Global Object Properties As Functions](#disallow-calling-global-object-properties-as-functions)
+  - [Disallow Template Literal Placeholder Syntax In Regular Strings](#disallow-template-literal-placeholder-syntax-in-regular-strings)
+  - [Disallow Confusing Multiline Expressions](#disallow-confusing-multiline-expressions)
+  - [Disallow Unreachable Code After `return`, `throw`, `continue` and `break` Statements](#disallow-unreachable-code-after-return-throw-continue-and-break-statements)
+  - [Require Calls To `isNaN()` When Checking For `NaN`](#require-calls-to-isnan-when-checking-for-nan)
+  - [Enforce Comparing `typeof` Expressions Against Valid Strings]#enforce-comparing-typeof-expressions-against-valid-strings
+    
 ## Style Guide
 
 ### Variables
